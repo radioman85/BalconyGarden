@@ -1,0 +1,9 @@
+[submodule "GreenhouseEmbedded"]
+	path = GreenhouseEmbedded
+	url = https://github.com/radioman85/GreenhouseEmbedded.git
+[submodule "BalconyGardenCloudServices"]
+	path = BalconyGardenCloudServices
+	url = https://github.com/radioman85/BalconyGardenCloudServices.git
+[submodule "BalconyGardenWebPage"]
+	path = BalconyGardenWebPage
+	url = https://github.com/radioman85/BalconyGardenWebPage.git
