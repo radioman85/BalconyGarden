@@ -4,6 +4,7 @@ This is the top level repo of my IoT project. It includes multiple other reposit
 ![image](https://user-images.githubusercontent.com/25708993/236217307-3450c988-f691-4dff-904d-9a0d6339c63a.png)
 
 # Submodules
-## GreenhouseEmbedded (Firmware and Hardware setup of the embedded part)
-## BalconyGardenWebPage (webpage project, visual studio)
-## BalconyGardenCloudServices (Setup of MQTT broker, InfluxDB and webpage)
+- [GreenhouseEmbedded](https://github.com/radioman85/GreenhouseEmbedded) (Firmware and Hardware setup of the embedded part)
+- [BalconyGardenWebPage](https://github.com/radioman85/BalconyGardenWebPage) (webpage project, visual studio)
+- [BalconyGardenCloudServices](https://github.com/radioman85/BalconyGardenCloudServices) (Setup of MQTT broker, InfluxDB and webpage)
+
